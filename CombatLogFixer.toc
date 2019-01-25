@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: CombatLogFixer
+## Notes: Fixes combat log freezes
+## SavedVariables:
+## Author: Ville
+## Version: 1.0
+## Dependencies: 
+CombatLogFixer.lua
+CombatLogFixer.xml
